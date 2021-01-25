@@ -1,5 +1,8 @@
 
 
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1400},"pages":[{"id":"page-age-d-or-aides-domicile","displayName":"age-d-or : aides à domicile","link":{"linkType":"LinkTypePage","href":"#!page-age-d-or-aides-domicile"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
+
         /*
          * active menu widget for Silex
          * create an element which links to an anchor, e.g. an element with a link to #anchor1
