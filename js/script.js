@@ -1,7 +1,7 @@
 
 
     window.silex = window.silex || {}
-    window.silex.data = {"site":{"width":1400},"pages":[{"id":"page-age-d-or-aides-domicile","displayName":"age-d-or : aides à domicile","link":{"linkType":"LinkTypePage","href":"#!page-age-d-or-aides-domicile"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
+    window.silex.data = {"site":{"width":1400},"pages":[{"id":"page-enb-d-coration-sols-et-murs-en-r-sine","displayName":"ENB décoration sols et murs en résine","link":{"linkType":"LinkTypePage","href":"#!page-enb-d-coration-sols-et-murs-en-r-sine"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
 
         /*
          * active menu widget for Silex
